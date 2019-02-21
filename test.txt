@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 let's make it!
 test text
+=======
+test text
+
+in my case test.txt is equal to about.html))
+>>>>>>> fix_about
